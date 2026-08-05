@@ -178,10 +178,10 @@ Collection of real-world EDA projects using Python, Pandas, and Matplotlib.
 # 🤝 Connect with Me
 
 LinkedIn:
-(Your LinkedIn URL)
+(Your https://www.linkedin.com/in/spencer-chuks-aa46714b)
 
 Email:
-(Your Email)
+(spencerppa001@gmail.com)
 
 GitHub:
 https://github.com/YourUsername
@@ -191,3 +191,4 @@ https://github.com/YourUsername
 ## 💡 Quote
 
 "Without data, you're just another person with an opinion." — W. Edwards Deming
+
